@@ -4,3 +4,4 @@ c = a+b;
 z=c
 s="Muthumanipandi"
 console.log(z)
+WebGLShaderPrecisionFormat("kskasd")
